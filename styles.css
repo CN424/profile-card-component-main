@@ -1,0 +1,35 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    font-family: Kumbh Sans, url(https://fonts.google.com/specimen/Kumbh+Sans);
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+.profile {
+    width: 30%;
+    border-radius: 5px;
+    border-style: 1px thin black;
+    padding: 5px;
+    background-color: white;
+    text-align: center;
+    margin-left: 450px;
+    margin-top: 150px;
+}
+
+.cover-photo {
+    background-image: url("images/bg-pattern-card.svg");
+    border-radius: 10px;
+    padding: 100px;
+}
+
+.profile-pic {
+    background-image: url("images/image-victor.jpg");
+    border-radius: 100%;
+    margin-left: 50px;
+    padding: 0px;
+    background-color: red;
+    background-repeat: no-repeat;
+}
